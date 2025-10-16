@@ -1,48 +1,51 @@
-# testimonials-grid-section
+# Frontend Mentor - Testimonials grid section solution
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Recommended IDE Setup
+## Table of contents
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Acknowledgments](#acknowledgments)
 
-## Recommended Browser Setup
+## Overview
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+### The challenge
 
-## Type Support for `.vue` Imports in TS
+Users should be able to:
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- View the optimal layout for the site depending on their device's screen size
 
-## Customize configuration
+### Screenshot
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+![](./screenshot.png)
 
-## Project Setup
+### Links
 
-```sh
-npm install
-```
+- Solution URL: [Add solution URL here](https://github.com/telemoca/testimonials-grid-section)
+- Live Site URL: [Add live site URL here](https://telemoca.github.io/testimonials-grid-section/)
 
-### Compile and Hot-Reload for Development
+## My process
 
-```sh
-npm run dev
-```
+I first built the structure with Vue, and then did the styling part.
 
-### Type-Check, Compile and Minify for Production
+### Built with
 
-```sh
-npm run build
-```
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- [Vue.js](https://vuejs.org/) - JS library
 
-### Lint with [ESLint](https://eslint.org/)
+### What I learned
 
-```sh
-npm run lint
-```
+I learned css grid, particularly grid-template-areas, very useful
+
+## Acknowledgments
+
+Ty KP
