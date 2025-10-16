@@ -8,6 +8,7 @@ export default defineConfig({
   plugins: [
     vue()
   ],
+  base: "/testimonials-grid-section/",
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
