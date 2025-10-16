@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/telemoca/testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://telemoca.github.io/testimonials-grid-section/)
+- Solution URL: [https://github.com/telemoca/testimonials-grid-section](https://github.com/telemoca/testimonials-grid-section)
+- Live Site URL: [https://telemoca.github.io/testimonials-grid-section/](https://telemoca.github.io/testimonials-grid-section/)
 
 ## My process
 
