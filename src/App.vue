@@ -99,7 +99,7 @@ body {
   color: white;
   grid-area: one;
   background-color: hsl(263, 55%, 52%);
-  background-image: url("./bg-pattern-quotation.svg");
+  background-image: url("/bg-pattern-quotation.svg");
   background-repeat: no-repeat;
   background-position: 80% top;
 }
